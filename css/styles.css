@@ -96,7 +96,7 @@ a {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 /* -----------Features-------- */
@@ -136,9 +136,10 @@ a {
   color: #2e2f42;
 }
 .team-list {
-  background-color: #ffffff;
 }
+
 .team-item {
+  background-color: #ffffff;
 }
 .team-image {
 }
